@@ -1,0 +1,25 @@
+{
+  "name": "matrix-image",
+  "version": "1.0.0",
+  "description": "Web Component for a Matrix Image",
+  "main": "app.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shinchy/matrix-image.git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0"
+  },
+  "scripts": {
+    "watch": "gulp watch"
+  },
+  "keywords": [
+    "Matrix Image",
+    "Web Components"
+  ],
+  "author": "Shaun Hinchy",
+  "license": "MIT"
+}
