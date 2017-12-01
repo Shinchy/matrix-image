@@ -1,0 +1,30 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "rules": {
+        "semi": 2,
+        "no-undef": "error",
+        "no-unused-vars": 2
+    },
+    "globals": {
+        "window": true,
+        "module": true,
+        "document": true,
+        "console": true,
+        "angular": true,
+        "require": true,
+        "React": true,
+        "ReactDOM": true,
+        "Quill": true,
+		"Promise": true,
+        "__dirname": true
+    },
+    "env": {
+        "browser": true
+    }
+}
